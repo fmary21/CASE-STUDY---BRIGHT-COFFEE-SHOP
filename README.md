@@ -1,4 +1,5 @@
 This Repository contains a detailed sales analysis for a chain of coffee shops with 3 locations . The data is for a period of 6 months from january to june 2023.
+TO UNDERSTAND CUSTOMER BEHAVIOR AND SHOPPING TRENDS.
 
 --PROJECT FILES
 1) Bright coffee Case Study- Outlines the requirements and expected outcome of the case study.
